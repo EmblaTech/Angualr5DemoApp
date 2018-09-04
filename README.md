@@ -17,3 +17,9 @@ Run `npm run build.prod` to build the project. The build artifacts will be store
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## custom changes
+
+It configured for .less
+
+it can be configure by  using 'ng set defaults.styleExt less'
